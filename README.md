@@ -14,7 +14,7 @@ A personal finance management web application built with .NET that allows users 
 * ASP.NET Core MVC (Web Framework)
 
 ## Getting Started
-* 1. Clone the repository
-* 2. Configure your database connection string
-* 3. Run database migrations
-* 4.Build and run the application
+* Clone the repository
+* Configure your database connection string
+* Run database migrations
+* Build and run the application
